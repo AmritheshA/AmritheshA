@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development,Python,AI
 - 🌱 I’m currently learning Hacking..
 - 💞️ I’m looking to collaborate on Hacking..
-- 📫 How to reach me 
-- instagram:@amrithesh._.a_
+- 📫 How to reach me:-
+-                   insta id: @amrithesh._.a_
 - 
 
 <!---
