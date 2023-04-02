@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Hacking..
 - 💞️ I’m looking to collaborate on Hacking..
 - 📫 How to reach me 
+- instagram:@amrithesh._.a_
+- 
 
 <!---
 AmritheshA/AmritheshA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
