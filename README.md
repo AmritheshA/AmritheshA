@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrithesh A</h1>
-<h3 align="center">Self Taught Web Developer|Java Spring Boot Developer</h3>
+<h3 align="center">Self Taught Java Spring Boot Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **java spring boot**
 
